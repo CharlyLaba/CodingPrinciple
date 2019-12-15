@@ -10,6 +10,9 @@ public class Node {
         left = right = null;
     }
 
+    public void talk(){
+        System.out.println("I am talking");
+    }
 }
 
 
